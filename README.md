@@ -8,7 +8,13 @@ CFB boiler bed temperature and pressure visualization with excel
 
 <a href="url"><img src="https://github.com/agurani/CFB-boiler-bed-visualization/blob/main/Visualization/Furnace_chamber_bed_temperature_visualization.JPG" align="left" height="259" width="640" ></a><br/>
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Furnace_chamber_bed_pressure_visualization <br/>
 
